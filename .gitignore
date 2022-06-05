@@ -1,0 +1,11 @@
+.idea/
+.vscode
+
+.secret.json
+node_modules
+
+#Hardhat files
+cache
+artifacts
+abi.json
+src/

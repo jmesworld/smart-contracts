@@ -1,0 +1,95 @@
+{
+  "1": {
+    "network_name": "mainnet",
+    "blockInterval": 15,
+    "USDT": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "USDC": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "ETH": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+  },
+  "10": {
+    "network_name": "op",
+    "USDT": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+    "USDC": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+    "ETH": "0x4200000000000000000000000000000000000006",
+  },
+  "42": {
+    "network_name": "kovan",
+    "USDT": "0x35D50cbc648c533A5DA29f4899955bd116fC738C",
+    "WETH": "0xF3A6679B266899042276804930B3bFBaf807F15b",
+  },
+  "56": {
+    "network_name": "bsc",
+    "blockInterval": 3,
+    "USDT": "0x55d398326f99059ff775485246999027b3197955",
+    "USDC": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+    "ETH": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+  },
+  "97": {
+    "network_name": "bsc_test",
+    "USDT": "0x17b0C74E06407b06CE10B86021ceC571aDc8Dfb8",
+  },
+  "100": {
+    "network_name": "xdai",
+    "blockInterval": 5,
+    "USDT": "0x4ECaBa5870353805a9F068101A40E0f32ed605C6",
+    "USDC": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
+    "ETH": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1"
+  },
+  "128": {
+    "network_name": "heco",
+    "blockInterval": 3,
+    "USDT": "0xa71edc38d189767582c38a3145b5873052c3e47a",
+    "USDC": "0x9362bbef4b8313a8aa9f0c9808b80577aa26b73b",
+    "ETH": "0x64FF637fB478863B7468bc97D30a5bF3A428a1fD",
+    "HBTC": "0x66a79D23E58475D2738179Ca52cd0b41d73f0BEa"
+  },
+  "137": {
+    "network_name": "matic",
+    "blockInterval": 2,
+    "USDT": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+    "USDC": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+    "ETH": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+  },
+  "250": {
+    "network_name": "fantom",
+    "blockInterval": 1,
+    "USDT": "0x049d68029688eabf473097a2fc38ef61633a3c7a",
+    "USDC": "0x04068da6c83afcfa0e13ba15a6696662335d5b75",
+    "ETH": "0x74b23882a30290451A17c44f4F05243b6b58C76d"
+  },
+  "42161": {
+    "network_name": "arbi",
+    "USDT": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "USDC": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "ETH": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+  },
+  "43114": {
+    "network_name": "avax",
+    "blockInterval": 2,
+    "USDT": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+    "USDC": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+    "ETH": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+  },
+  "80001": {
+    "network_name": "matic_test",
+    "USDT": "0x800f9a236Dfb7206D29Fa15fE4110c75148696BB",
+    "WETH": "0x58586604Bc3206B04c6a38F97A0430CaE0326C56",
+  },
+  "421611": {
+    "network_name": "arbi_test",
+    "WETH": "0xCE2984f9D4F47c6575dE5dF2c9FCD286A57D8975",
+  },
+  "1313161554": {
+    "network": "aurora",
+    "USDC": "0xB12BFcA5A55806AaF64E99521918A4bf0fC40802",
+    "USDT": "0x4988a896b1227218e4A686fdE5EabdcAbd91571f",
+    "ETH": "0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB"
+  },
+  "1666600000": {
+    "network_name": "harmony",
+    "blockInterval": 2,
+    "USDT": "0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f",
+    "USDC": "0x985458e523db3d53125813ed68c274899e9dfab4",
+    "ETH": "0x6983d1e6def3690c4d616b13597a09e6193ea013"
+  }
+}
